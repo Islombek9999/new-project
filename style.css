@@ -1,0 +1,223 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    height: 100vh;
+
+}
+.head{
+    position: fixed;
+    top: 50px;
+    z-index: 5;
+}
+.head img{
+    width: 65px ;
+    height:70px ;
+    margin-top: 18px;
+    margin-left: 250px;
+}
+.min{
+    margin-top: 31px ;
+    margin-left: 18px;
+    width: 72px;
+    height: 38px ;
+    font-size: 22px ;
+}
+.head{
+    width: 100%;
+    height: 106px;
+    display: flex;
+
+}
+.link li{
+    list-style: none;
+}
+.link{
+    margin-left: 460px ;
+    margin-top: 40px;
+    display: flex;
+    gap: 10px;
+}
+.link li .link_one{
+    
+    text-decoration: none;
+    color:#404040 ;
+}
+.head_one{
+    position: relative;
+    width: 100%;
+    height: 391px;
+    background-image: url(./IMAGE\ \(51\)\ \(1\).jpg);
+}
+.mak{
+    left: 385px;
+    width: 672px;
+    height: 55px;
+    position: absolute;
+    top: 105px;
+    color: white;
+    font-size: 43px;
+    text-align: center;
+}
+.head_one .im{
+    position: absolute;
+    top: 245px;
+    left: 680px;
+    width: 80px;
+    height: 2px;
+
+}
+.let{
+    position: absolute;
+    top: 270px;
+    left: 630px;
+    color: #ffff;
+    font-size: 15px;
+    width: 225px;
+}
+.head_one .imm{
+    width: 52px ;
+    height: 52px ;
+    position: absolute;
+    top: 365px;
+    left: 694px;
+
+}
+.head_two{
+    position: relative;
+    width: 100%;
+    height: 289px;
+    background-color: #FEFEC9;
+}
+.is{
+    position: absolute;
+    width: 840px ;
+    height:75px ;
+    top: 60px ;
+    left: 250px ;
+    text-align: center;
+}
+.imges{
+    margin-top: 75px;
+    width: 1000px;
+    margin-left: 250px;
+    display: flex;
+    gap: 20px;
+}
+.imges img{
+    width: 300px;
+    height: 400px;
+}
+.head_thre{
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+.how{
+    width: 394px ;
+    height: 37px ;
+    font-size: 23px ;
+    margin-top: 79px ;
+    margin-left: 553px;
+}
+.head_four{
+    position: relative;
+   
+    background-color: #F5F5F5;
+    width: 100%;
+    height: 1500px;
+}
+
+.box1{
+    width: 960px;
+    margin-left: 250px;
+    position: absolute;
+    top: 190px;
+    display: flex;
+    gap: 20px;
+
+}
+.rec{
+    font-size: 23px;
+    position: absolute;
+    top: 79px;
+    left: 645px;
+}
+.box11{
+    width: 960px;
+    margin-left: 250px;
+    position: absolute;
+    top: 600px;
+    display: flex;
+    gap: 20px;
+}
+.box12{
+    width: 960px;
+    margin-left: 250px;
+    position: absolute;
+    top: 987px;
+    display: flex;
+    gap: 20px;
+}
+.box{
+    background-color: #FFFFFF;
+    width: 300px ;
+    height: 400px ;
+
+}
+.box img{
+    width: 300px;
+    height: 300px;
+}
+.fir{
+    position: absolute;
+    top: 143px;
+    left: 680px;
+    width: 80px;
+    height: 2px;
+
+}
+.teamm{
+    width: 129px;
+    height: 36px;
+    font-size: 23px;
+    margin-top: 79px;
+    margin-left: 656px;
+}
+.team{
+    width: 1000px;
+}
+.header20 img{
+    width: 220px;
+    height: 220px;
+}
+.header20{
+    margin-left: 250px ;
+    margin-top: 45px;
+    width: 220px;
+    height: 220px;
+}
+.rexten{
+    margin-top: 28px ;
+    margin-left: 680px ;
+    width: 80px;
+    height: 2px;
+}
+.team .header23{
+    width: 950px;
+    display: flex;
+    gap: 20px;
+}
+ .header20 .inko{
+    width: 220px;
+    height: 35px;
+}
+.head32{
+    background-color: #F5F5F5;
+    width: 100%;
+    height: 511px;
+}
+.head32 img{
+    width: 940px ;
+    height: 373px;
+}
