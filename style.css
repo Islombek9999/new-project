@@ -3,6 +3,8 @@ header{
     height: 40px ;
     background-color: #ADC9A6;
     position: relative;
+    width: 100%;
+    
     
 }
 @font-face {
@@ -32,6 +34,9 @@ nav{
     height: 100px;
     background-color: #153C3C;
     position: relative;
+    position: fixed;
+    z-index: 5;
+    
 }
 nav img{
     margin-top: 34px;
@@ -456,8 +461,10 @@ section img{
     height: 120px;
     border-radius: 12px;
     border: none;
+    position: relative;
 }
 .bt11{
+    position: relative;
     border: none;
     border-radius: 12px;
     cursor: pointer;
@@ -589,4 +596,82 @@ footer img{
     text-decoration: none;
     color: #DDE4E4 ;
     font-size: 15px ;
+}
+.pag{
+    display: flex;
+    gap: 80px;
+    top: 100px;
+    left: 757px;
+    position: absolute;
+}
+.pag li{
+    list-style: none;
+}
+.pag li a{
+    text-decoration: none;
+    color: #F4F5F6;
+    font-size: 16px;
+    
+    
+}
+.lin4{
+    position: absolute;
+    top: 144px ;
+    left: 757px;
+
+}
+.lin4 li a{
+    margin-top: 40px;
+    text-decoration: none;
+    color: #6C8989;
+
+}
+.lin4 li {
+    list-style: none;
+}
+.lin5{
+    position: absolute;
+    top: 144px ;
+    left: 900px;
+}
+.lin5 li{
+    list-style: none;
+
+}
+.lin5 li a{
+    text-decoration: none;
+    color: #6C8989;
+}
+.lin6 li a{
+    text-decoration: none;
+    color: #6C8989;
+}
+.lin6 li{
+    list-style: none;
+}
+.lin6{
+    position: absolute;
+    top: 144px;
+    left: 1025px;
+}
+.ui{
+    position: absolute;
+    left: 20px;
+    top: 41px;
+}
+.bt1 img{
+    position: absolute;
+    top: 51px;
+    left: 441px;
+    width: 16px;
+    height: 16px;
+
+}
+.bt11 img{
+    position: absolute;
+    top: 51px;
+    left: 441px;
+    width: 16px;
+    height: 16px;
+
 }
